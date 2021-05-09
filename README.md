@@ -1,16 +1,22 @@
 #Ej-Express-3
 
+## instalar dependencias con 
+`__npm install__`
 
+## para ver rutas iniciar el servidor con 
+`__node server.js__`
 
+## ruta raiz poner en el browser
 
+` __localhost:3030__`
 
+## ruta para ver imagen colocar en el browser
 
+`__localhost:3030/img__`
 
+## ruta para ver gif en el browser colocar
 
-
-
-
-
+`__localhost:3030/gif__`
 
 
 
