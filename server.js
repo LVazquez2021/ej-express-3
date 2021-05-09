@@ -13,6 +13,10 @@ app.get('/', function(req, res) {
     res.sendFile(url)
 })
 
+app.get('/saludo', function(req, res) {
+    res.send('Holaaaaa!')
+})
+
 app.get('/gif', function(req, res) {
     res.sendFile(gif)
 })

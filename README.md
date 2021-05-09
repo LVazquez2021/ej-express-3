@@ -6,17 +6,19 @@
 ## para ver rutas iniciar el servidor con 
 `node server.js`
 
-## ruta raiz poner en el browser
+## ruta raiz poner en el browser,este retorna un archivo index.html
 
 `localhost:3030`
 
-## ruta para ver imagen colocar en el browser
+## ruta `/saludo` , retorna un texto plano 
+
+`localhost:3030/saludo`
+
+## ruta para ver imagen o gif colocar en el browser
 
 `localhost:3030/img`
 
-## ruta para ver gif en el browser colocar
-
-`>localhost:3030/gif`
+`localhost:3030/gif`
 
 
 
