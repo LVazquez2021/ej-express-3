@@ -16,7 +16,7 @@
 
 ## ruta para ver gif en el browser colocar
 
-`**localhost:3030/gif**`
+`>localhost:3030/gif`
 
 
 
